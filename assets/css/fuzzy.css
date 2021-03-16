@@ -1,7 +1,7 @@
 .fuzzy_logo {    
 	width: 185px;
-    display: inline-block;
-    vertical-align: bottom;
+    display: inline-block;    
+	vertical-align: text-bottom;
 }
 
 .fuzzy_title {
