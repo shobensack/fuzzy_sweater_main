@@ -22,3 +22,24 @@
   right: 0;
   background: rgba(0, 0, 0, 0.5);
 }
+
+.fa-tiktok:before {    
+	content: '';
+    background: url(../../tiktok.svg) no-repeat;
+    height: 44px;
+    width: 31px;
+    background-position: center;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: sub;
+    margin-bottom: -5px;    
+	margin-bottom: -4px;
+}
+
+.fa-tiktok.grey:before {
+    background: url(../../tiktok_grey.svg) no-repeat;
+}
+
+.row .gtr-50 .fa-tiktok.grey:before {
+	    margin-bottom: -18px;
+}

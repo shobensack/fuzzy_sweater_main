@@ -63,24 +63,24 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		'</nav>' +
 		'<ul class="icons" style="bottom:0; position: absolute; left: 30%">'+
 			'<li>'+
-			  '<a href="#" class="icon brands fa-youtube">'+
+			  '<a href="https://www.youtube.com/channel/UCTO6uD0GhYubgoFQKhnKwUg/videos" class="icon brands fa-youtube">' +
 				'<span class="label">Youtube</span>'+
 			  '</a>'+
 			'</li>'+
 			'<li>'+
-			  '<a href="#" class="icon brands fa-instagram">'+
-				'<span class="label">Instagram</span>'+
-			  '</a>'+
+			  '<a href="https://www.instagram.com/fuzzy.sweater.productions/" class="icon brands fa-instagram">' +
+				'<span class="label">Instagram</span>' +
+			  '</a>' +
 			'</li>'+
 			'<li>'+
-			  '<a href="#" class="icon brands fa-facebook-f">'+
-				'<span class="label">Facebook</span>'+
-			  '</a>'+
+			  '<a href="https://www.facebook.com/fuzzy.sweater.productions" class="icon brands fa-facebook-f">' +
+				'<span class="label">Facebook</span>' +
+			  '</a>' +
 			'</li>'+
 			'<li>'+
-			  '<a href="#" class="icon brands fa-twitter">'+
-				'<span class="label">Twitter</span>'+
-			  '</a>'+
+			  '<a href="https://tiktok.com/@fuzzy.sweater" class="icon brands fa-tiktok">' +
+				'<span class="label">TikTok</span>' +
+			  '</a>' +
 			'</li>'+
 		  '</ul>'+
 		'</div>')
