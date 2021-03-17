@@ -78,7 +78,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 			  '</a>' +
 			'</li>'+
 			'<li>'+
-			  '<a href="https://tiktok.com/@fuzzy.sweater" class="icon brands fa-tiktok">' +
+			  '<a href="https://tiktok.com/@fuzzy.sweater" class="icon brands fa-tiktok grey panel" style="">' +
 				'<span class="label">TikTok</span>' +
 			  '</a>' +
 			'</li>'+
