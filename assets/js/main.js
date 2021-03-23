@@ -63,7 +63,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		'</nav>' +
 		'<ul class="icons" style="bottom:0; position: absolute; left: 30%">'+
 			'<li>'+
-			  '<a href="https://www.youtube.com/channel/UCTO6uD0GhYubgoFQKhnKwUg/videos" class="icon brands fa-youtube">' +
+			  '<a href="https://www.youtube.com/channel/UCTO6uD0GhYubgoFQKhnKwUg/videos?sub_confirmation=1" class="icon brands fa-youtube">' +
 				'<span class="label">Youtube</span>'+
 			  '</a>'+
 			'</li>'+
