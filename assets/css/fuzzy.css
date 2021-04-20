@@ -73,11 +73,10 @@
 
 @media only screen and (max-device-width : 640px) {
 	#___ytsubscribe_0 {
-		    margin-bottom: -25px;
-			float: right;
-			margin-right: 20px;
-			margin-top: 10px;
-			display: block;
-			margin-right: 0;
+		margin-bottom: -25px !important;
+		float: left !important;
+		margin-top: 10px !important;
+		display: block !important;
+		margin-right: 0 !important;
 	}
 }
