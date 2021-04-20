@@ -30,8 +30,8 @@
     width: 31px;
     background-position: center;
     background-size: 100%;
-    display: inline-block;
-    vertical-align: sub;
+    display: inline-block;    
+	vertical-align: middle;
     margin-bottom: -5px;    
 	margin-bottom: -4px;
 }
