@@ -65,10 +65,10 @@
 	height:100%;
 }
 
-#___ytsubscribe_0 {
-	float: left;
-    margin-right: 20px;
-    margin-top: 10px;
+#___ytsubscribe_0 {    
+	float: right !important;
+    margin-right: 20px !important;
+    margin-top: 10px !important;
 }
 
 @media only screen and (max-device-width : 640px) {
