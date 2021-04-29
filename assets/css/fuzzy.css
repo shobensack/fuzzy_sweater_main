@@ -23,17 +23,39 @@
   background: rgba(0, 0, 0, 0.5);
 }
 
-.fa-tiktok:before {    
+.fa-bandcamp:before {        
 	content: '';
-    background: url(../../tiktok.svg) no-repeat;
-    height: 44px;
-    width: 31px;
+    background: url(../../bandcamp.svg) no-repeat;
+        height: 100%;
+    width: 100%;
     background-position: center;
     background-size: 100%;
-    display: inline-block;    
-	vertical-align: middle;
-    margin-bottom: -5px;    
-	margin-bottom: -4px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -10px;
+}
+
+.fa-bandcamp-grey:before {      
+        background: url(../../bandcamp-grey.svg) no-repeat;
+    background-position: center;
+    background-size: 100%;
+    display: inline-block;
+    height: 14px;
+    width: 40px;
+}
+
+.fa-tiktok:before {        
+	    content: '';
+    background: url(../../tiktok.svg) no-repeat;
+    height: 63%;
+    width: 63%;
+    /* width: 99%; */
+    ackground-position: center;
+    background-size: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -11px;
+    margin-left: -8px;;
 }
 
 .fa-tiktok.grey:before {
