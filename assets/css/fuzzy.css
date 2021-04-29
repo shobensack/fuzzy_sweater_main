@@ -24,15 +24,16 @@
 }
 
 .fa-bandcamp:before {        
-	content: '';
+	    content: '';
     background: url(../../bandcamp.svg) no-repeat;
-        height: 100%;
-    width: 100%;
+    height: 100%;
+    width: 105%;
     background-position: center;
     background-size: 100%;
     display: inline-block;
     vertical-align: middle;
     margin-top: -10px;
+    margin-left: 3px;
 }
 
 .fa-bandcamp-grey:before {      
@@ -54,8 +55,8 @@
     background-size: 100%;
     display: inline-block;
     vertical-align: middle;
-    margin-top: -11px;
-    margin-left: -8px;;
+    margin-top: -11px;    
+	margin-left: 11px;
 }
 
 .fa-tiktok.grey:before {
@@ -67,8 +68,8 @@
 }
 
 .fa-tiktok.grey.panel:before {
-	    margin-bottom: -19px;    
-		margin-left: 3px;
+	margin-bottom: -7px;
+    margin-left: -2px;
 }
 
 .video-container {
