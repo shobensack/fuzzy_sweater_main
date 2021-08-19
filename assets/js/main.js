@@ -236,3 +236,12 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	});
 
 })(jQuery);
+
+function yt_defer() {
+var vidDefer = document.getElementsByTagName('iframe');
+for (var i=0; i<vidDefer.length; i++) {
+if(vidDefer[i].getAttribute('data-src')) {
+vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+} } }
+
+window.onload = yt_defer;
