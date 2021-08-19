@@ -30,7 +30,6 @@
 
 		});
 		
-		b.push('<a class="link depth-0" href="https://fuzzysweaterproductions.bandcamp.com/" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-0"></span>Support The Artists</a>');
 		b.push('<a class="link depth-0" href="https://www.patreon.com/fuzzysweater" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-0"></span>Become a Patron</a>');
 
 		return b.join('');
