@@ -1,0 +1,4 @@
+User-agent: googlebot
+Disallow: /images
+
+Sitemap: https://fuzzysweater.tv/sitemap.xml
