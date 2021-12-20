@@ -94,6 +94,20 @@
     margin-top: 10px !important;
 }
 
+#recording-left {    
+	width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    padding-right: 45px;
+}
+
+#recording-right {
+	width: 30%;
+    display: inline-block;margin-left: 16px;
+	
+}
+
 @media only screen and (max-device-width : 640px) {
 	#___ytsubscribe_0 {
 		margin-bottom: -25px !important;
@@ -101,5 +115,25 @@
 		margin-top: 10px !important;
 		display: block !important;
 		margin-right: 0 !important;
+	}
+	
+	#recording-left {   
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block !important;;
+		vertical-align: top !important;;
+	}
+
+	#recording-right {
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		display: block !important;;
+		vertical-align: top !important;;
+		
+	}
+	#recording-right iframe {
+		width: 100%;
 	}
 }
